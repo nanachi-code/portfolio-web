@@ -76,7 +76,7 @@ export default {
 			index: 0,
 			texts: ["fullstack developer", "osu! mapper", "osu! storyboarder"],
 			isDeleting: false,
-			showSocial: true,
+			showSocial: false,
 		}
 	},
 	created() {
