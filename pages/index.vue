@@ -11,6 +11,11 @@ export default {
 	components: {
 		Intro,
 	},
+	head(){
+		return {
+			title: "Nanachi - Homepage"
+		}
+	}
 }
 </script>
 
