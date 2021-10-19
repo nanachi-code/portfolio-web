@@ -10,10 +10,10 @@
 					class="
 						border
 						rounded-lg
-						border-red-600
+						border-red-500
 						p-2
 						mr-3
-						hover:bg-red-600 hover:text-white
+						hover:bg-red-500 hover:text-white
 						duration-300
 						transition
 						ease-in-out
@@ -25,10 +25,10 @@
 					class="
 						border
 						rounded-lg
-						border-red-600
+						border-red-500
 						p-2
 						mr-3
-						hover:bg-red-600 hover:text-white
+						hover:bg-red-500 hover:text-white
 						duration-300
 						transition
 						ease-in-out
@@ -39,9 +39,9 @@
 					class="
 						border
 						rounded-lg
-						border-red-600
+						border-red-500
 						p-2
-						hover:bg-red-600 hover:text-white
+						hover:bg-red-500 hover:text-white
 						duration-300
 						transition
 						ease-in-out
@@ -57,7 +57,7 @@
 					justify-center
 					content-center
 					rounded-lg
-					bg-red-600
+					bg-red-500
 					py-2
 					duration-300
 					transition
