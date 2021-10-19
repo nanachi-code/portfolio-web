@@ -1,5 +1,20 @@
 <template>
-	<div id="projects" class="flex flex-wrap justify-center mx-auto h-screen content-center flex-col">
-		<h1>WIP</h1>
+	<div id="projects">
+		<Header page="Projects"></Header>
+
+		<Container>
+			WIP
+		</Container>
 	</div>
 </template>
+
+<script>
+export default {
+	layout: "has-navbar",
+	head() {
+		return {
+			title: "Nanachi - Projects",
+		}
+	},
+}
+</script>

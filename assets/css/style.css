@@ -1,0 +1,29 @@
+@font-face {
+	font-family: "Nexa";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url("~assets/fonts/Nexa/NexaLight.otf") format("opentype");
+}
+
+@font-face {
+	font-family: "Nexa";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url("~assets/fonts/Nexa/NexaBold.otf") format("opentype");
+}
+
+.page-enter-active,
+.page-leave-active,
+.layout-enter-active,
+.layout-leave-active {
+	transition: opacity 0.3s;
+}
+
+.page-enter,
+.page-leave-to,
+.layout-enter,
+.layout-leave-active {
+	opacity: 0;
+}
